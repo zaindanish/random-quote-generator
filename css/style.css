@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  font-family: 'Bitter', serif;
+  color: white;
+}
